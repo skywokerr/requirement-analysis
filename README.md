@@ -1,6 +1,4 @@
-Of course. Here is a comprehensive `README.md` file drafted according to your numbered tasks and instructions.
 
-***
 
 # Requirement Analysis in Software Development
 
